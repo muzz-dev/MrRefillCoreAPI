@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrRefillCoreAPI", "MrRefillCoreAPI.csproj", "{6A580690-1E1F-4015-861C-3829EDB4CD4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A580690-1E1F-4015-861C-3829EDB4CD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A580690-1E1F-4015-861C-3829EDB4CD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A580690-1E1F-4015-861C-3829EDB4CD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A580690-1E1F-4015-861C-3829EDB4CD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4E360D4-9EF9-4906-ABF6-96E44B9F5ECD}
+	EndGlobalSection
+EndGlobal
